@@ -21,7 +21,7 @@ export default function Home() {
 
 
       </div>
-    <Footer year = "2024" name = "Yutthakarn Sajui" studentID = "660610787">
+    <Footer year = "2024" name = "Natthachai Bubpa" studentID = "660610752">
     </Footer>
 
     </div>
